@@ -49,7 +49,7 @@ Hi, I'm Joseph Lteif, an enthusiastic software engineer. I love to solve complex
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 
 ![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=josephlteif&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-mansour1)](https://github.com/m-mansour1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephlteif)](https://github.com/josephlteif/github-readme-stats)
 
 <!--
 **JosephLteif/JosephLteif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
